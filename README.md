@@ -6,11 +6,13 @@
 
 >  ### convertEcommerceTheme
 >  *****ecommercePlatform***** The ecommerce platform of the theme.
+>
 >  *****filePath***** The file path of the theme.
 >  
 >  Converts any theme from a supported ecommerce platform into a Shopify theme.
 
 >  ### determineEcommercePlatform
+>
 >  *****filePath***** The file path of the theme.
 >  
 >  Determines if the theme derives from a supported ecommerce
